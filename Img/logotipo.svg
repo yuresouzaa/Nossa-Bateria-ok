@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 239.59613 196.11267"
+   height="196.11267"
+   width="239.59613"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath14"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path12"
+         d="M -1,-1 H 178.6971 V 146.0845 H -1 Z" /></clipPath></defs><g
+     clip-path="url(#clipPath14)"
+     transform="matrix(1.3333333,0,0,-1.3333333,1.3333333,194.77933)"
+     id="g10"><g
+       transform="matrix(1.3333333,0,0,-1.3333333,1.3333333,194.77933)"
+       id="g16"><path
+         id="path18"
+         style="fill:#263581;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="M 0,145.0845 H 177.6971 V 0 H 0 Z" /><g
+         id="g20"><path
+           id="path22"
+           style="fill:#fff200;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="M 107.2023,122.7796 90.7194,90.743 H 86.7268 L 105.2045,80.8078 76.7917,48.8665 89.6051,74.1223 h 4.6965 L 73.6495,85.1386 Z" /><path
+           id="path24"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 105.7791,110.3854 8.4225,-6.8463 -4.2579,-5.2381 c 1.546,-1.9537 2.8242,-4.1293 3.7794,-6.4707 l 6.5795,1.0395 1.6937,-10.7212 -6.3121,-0.9969 c -0.0601,-2.7324 -0.5315,-5.3632 -1.3536,-7.8336 l 5.6429,-3.1241 -5.2571,-9.4957 -5.8439,3.2351 c -1.7014,-1.8963 -3.6697,-3.5484 -5.847,-4.8957 l 2.3062,-6.135 -10.1599,-3.8191 -2.3482,6.2464 c -1.2498,-0.1794 -2.5274,-0.2738 -3.8268,-0.2738 -0.9964,0 -1.9797,0.0547 -2.9477,0.161 l 7.776,8.9665 c 7.7164,2.1164 13.3872,9.1792 13.3872,17.5678 0,7.0642 -4.0216,13.189 -9.8998,16.2105 4.6647,7.0276 4.1718,6.3773 8.4666,12.4234 z m -30.4889,-58.8365 -2.8083,1.1489 2.2328,6.4984 c -2.101,1.3337 -4.0033,2.9523 -5.6517,4.8022 l -5.9689,-3.4722 -5.4575,9.3824 6.0006,3.4903 c -0.82,2.4914 -1.2841,5.1446 -1.33,7.8996 l -6.6039,0.8654 1.4106,10.762 7.219,-0.9459 c 0.9121,2.196 2.1086,4.244 3.5441,6.0979 l -4.4393,5.4612 8.4226,6.8463 4.263,-5.2444 c 2.2804,1.2577 4.7647,2.1926 7.3907,2.7408 v 6.8485 h 10.8539 v -2.9747 L 83.1107,98.9943 C 75.939,96.5469 70.7811,89.7517 70.7811,81.7515 c 0,-7.5082 4.5428,-13.9544 11.0293,-16.7423 -2.3697,-4.7075 -4.3276,-8.7715 -6.5202,-13.4603" /><text
+           id="text28"
+           style="font-variant:normal;font-weight:normal;font-size:26.46756744px;font-family:Impact;-inkscape-font-specification:Impact;writing-mode:lr-tb;fill:#fff200;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-0.81665986,8.5314,22.6729)"><tspan
+             id="tspan26"
+             y="0"
+             x="0 14.345422 28.796713 42.480446 56.164177 69.609703 74.267998 88.87809 100.87321 113.07475 124.08527 138.35129 145.97394">NOSSA BATERIA</tspan></text>
+</g></g></g></svg>
